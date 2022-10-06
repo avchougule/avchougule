@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avchougule
+- 👋 Hi, I’m Akshay Chougule
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently Pursuing CS
 - 📫 How to reach me avchougule.github.io
