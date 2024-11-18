@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Chougule
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently Pursuing CS
+- 🌱 I’m Completed my B.tech in CSE
 - 📫 How to reach me avchougule.github.io
 
 <!---
