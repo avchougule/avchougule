@@ -1,5 +1,5 @@
 -  Hi, I’m Akshay Chougule
--  My skills are in Html, CSS, Bootstrap, Git, Github, SQL, C, Javascript, ReactJS, Java, Spring, Springboot and Hibernate
+-  My skills are in Html, CSS, Bootstrap, Git, Github, SQL, C, Javascript, ReactJS, Java, Hibernate, Spring and Springboot 
 -  I’m Completed my B.tech in CSE
 -  How to reach me avchougule.github.io
 
